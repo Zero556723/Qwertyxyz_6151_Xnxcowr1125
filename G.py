@@ -1,1 +1,2 @@
-import run
+chmod +x run.exe
+./run.exe
